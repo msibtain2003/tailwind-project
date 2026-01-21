@@ -1,4 +1,5 @@
 ﻿# tailwind-project
-[Live Demo](primesole.netlify.app)
+[Live Demo](https://primesole.netlify.app/)
+
 
 
